@@ -8,7 +8,22 @@
 
   </div>
 
-  <div align="left">
-why isnt this working 
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46e6b448-76a4-4f59-af76-185e8b320111/de2l26l-b90f000e-3cb4-4388-a60d-8850646114ae.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ2ZTZiNDQ4LTc2YTQtNGY1OS1hZjc2LTE4NWU4YjMyMDExMVwvZGUybDI2bC1iOTBmMDAwZS0zY2I0LTQzODgtYTYwZC04ODUwNjQ2MTE0YWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MbJqkw6Q43a7TB2WN6QltSqxTl9_xc9Hye1ynNXckQM" alt="batman" title="smth creative here" width="400" align="right">
 
-<img src="https://purepng.com/public/uploads/large/purepng.com-batmanbatmansuperherocomicdc-comicsbob-kanebat-manbruce-wayne-1701528525996if4kt.png" alt="batman" title="something creative here" width="450" align="right">
+
+<div align="center">
+  
+> $\color{#D29922}\Large{\textsf{Text will go here in a large detailed summary.}}$
+> 
+> $\color{#D29922}\tiny{\textsf{But also here too, in subscript.}}$
+>
+
+<br>
+
+![IMG_9922](https://github.com/user-attachments/assets/f85f6e89-a2b9-416c-8fed-b712cc4285c1)
+
+
+> $\color{#42A5F5}\Large{\textsf{Text will go here in a large detailed summary.}}$
+> 
+> $\color{#42A5F5}\tiny{\textsf{But also here too, in subscript.}}$
+>
