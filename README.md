@@ -12,6 +12,9 @@
 
 
 <div align="center">
+
+![IMG_9922](https://github.com/user-attachments/assets/f85f6e89-a2b9-416c-8fed-b712cc4285c1)
+
   
 > $\color{#D29922}\Large{\textsf{Text will go here in a large detailed summary.}}$
 > 
@@ -20,10 +23,16 @@
 
 <br>
 
-![IMG_9922](https://github.com/user-attachments/assets/f85f6e89-a2b9-416c-8fed-b712cc4285c1)
+<img src="https://static.wikia.nocookie.net/marvel_dc/images/a/a4/Bruce_Wayne_DC_Super_Hero_Girls_TV_Series_002.png/revision/latest/scale-to-width-down/250?cb=20200719043835" width="150">
 
+<br>
+<hr>
 
-> $\color{#42A5F5}\Large{\textsf{Text will go here in a large detailed summary.}}$
-> 
-> $\color{#42A5F5}\tiny{\textsf{But also here too, in subscript.}}$
->
+</div> 
+
+<div align="right">
+  
+ $\color{#42A5F5}\Large{\textsf{Text will go here in a large detailed summary.}}$
+ 
+ $\color{#42A5F5}\tiny{\textsf{But also here too, in subscript.}}$
+
